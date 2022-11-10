@@ -5,7 +5,7 @@
 <br />
 
 Hi, I'm Vivek, a passionate self-taught Python Programmer and a Data Science Enthusiast from India. 
-my passion for Data Science and Machine Learning lies with dreaming up ideas and making them come true with elegant Features. 
+My passion for Data Science and Machine Learning lies with dreaming up ideas and making them come true with elegant Features. 
 I take great care in the experience, architecture, and code quality of the things I build.
 
  
