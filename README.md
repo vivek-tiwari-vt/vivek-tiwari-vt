@@ -1,13 +1,12 @@
-# Hi there, I'm Vivek Tiwari 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Vivek Tiwari 👋 <img src="github-header-image.png" width="25px">
 
 <p align="center">
-  <img src="your-header-image-url.png" alt="Vivek Tiwari Header Banner"/>
+  <img src="github-header-image.png" alt="Vivek Tiwari Header Banner"/>
 </p>
 
 <p align="center">
   <em>Data Scientist passionate about leveraging machine learning and advanced analytics to uncover insights and drive growth. <br> Currently pursuing my Master's in Data Science at Indiana University Bloomington.</em>
   <br>
-  📍 Bloomington, IN
 </p>
 
 ---
@@ -20,7 +19,6 @@
 * 🚀 Experienced in developing scalable data solutions and collaborating on strategic initiatives.
 * 📊 Skilled in communicating complex findings to diverse audiences.
 * 🌱 Eager to apply analytical rigor to optimize growth and efficiency, especially in fast-paced environments.
-* 📫 How to reach me: **vivek.bt.tiwari@gmail.com**
 
 ---
 
