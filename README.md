@@ -1,97 +1,166 @@
-# Hi there, I'm Vivek Tiwari 👋 <img src="github-header-image.png" width="25px">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivek-tiwari-vt&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-8B5CF6?style=flat-square" alt="Open to Work"/>
+</div>
 
-<p align="center">
-  <img src="github-header-image.png" alt="Vivek Tiwari Header Banner"/>
-</p>
+<br/>
 
-<p align="center">
-  <em>Data Scientist passionate about leveraging machine learning and advanced analytics to uncover insights and drive growth. <br> Currently pursuing my Master's in Data Science at Indiana University Bloomington.</em>
-  <br>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Hi%2C+I%27m+Vivek+Tiwari+%F0%9F%91%8B;ML+Engineer.+Data+Scientist.+Builder.;Transformers+%C2%B7+GNNs+%C2%B7+Spark+%C2%B7+AWS;Turning+data+into+decisions.;Open+to+full-time+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
----
+<div align="center">
+  <em>Building intelligent systems that transform raw data into real-world impact - one model at a time.</em>
+</div>
 
-### 👨‍💻 About Me
+<br/><br/>
 
-* 🎓 Pursuing M.S. in Data Science @ **Indiana University Bloomington** (Expected May 2025)
-* 🎓 B.Eng. in Electronics & Computer Science @ **Thakur College of Engineering & Technology** (May 2023)
-* 💡 Specializing in ML models (Python, SQL, Spark) for actionable insights.
-* 🚀 Experienced in developing scalable data solutions and collaborating on strategic initiatives.
-* 📊 Skilled in communicating complex findings to diverse audiences.
-* 🌱 Eager to apply analytical rigor to optimize growth and efficiency, especially in fast-paced environments.
+## 👨‍💻 About Me
 
----
+<table>
+<tr>
+<td valign="top" width="60%">
 
-### 🛠️ Tech Stack
+- 🎓 **M.S. Data Science** @ Indiana University Bloomington
+- 🔬 Specializing in **Transformers, GNNs**, and large-scale ML pipelines
+- ⚡ Built systems processing **200K+ events/month** with BERT + Airflow + FastAPI
+- 🧠 Created **agmem** - version control for AI agent memories
+- 🎮 Gaming enthusiast who built an **AI chess engine** that beats Stockfish 33% of the time
+- 📍 Based in Bloomington, Indiana · Relocating anywhere for the right opportunity
 
-**Programming & Tools:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+</td>
+<td valign="top" width="40%" align="center">
 
-**Machine Learning & AI:**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/NLP-007ACC?style=for-the-badge" alt="NLP"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
 
-**Data Engineering & ETL:**
-<p>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
-  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=black" alt="Apache Hadoop"/> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="AWS Lambda"/>
-</p>
+</td>
+</tr>
+</table>
 
-**Cloud Platforms & CI/CD:**
-<p>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge" alt="CI/CD"/> </p>
+<br/><br/>
 
-**Data Visualization:**
-<p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-88c999?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-</p>
+## 🔭 Currently
 
----
+> **🔭 Currently Exploring** - Hybrid Transformer-GNN architectures for complex network analysis
+>
+> **💼 Actively Looking** - Full-time roles in ML Engineering, Data Science, AI Research
+>
+> **📝 Writing About** - AI systems, data pipelines, and building things that scale - on [Medium](https://medium.com/@your-medium-username)
 
-### 📈 Current Projects & Focus
+<br/><br/>
 
-* 🧠 Exploring hybrid transformer-GNN models for complex network analysis.
-* ✨ Enhancing semantic feature extraction using spectral methods and graph self-attention.
-* 📊 Developing predictive analytics solutions and optimizing data pipelines using Spark.
-* 🤖 Building Generative AI applications for content optimization.
-* 🛒 Improving recommendation engines for better user engagement.
+## 🚀 Featured Projects
 
-*(Feel free to add more specific projects you're currently working on or learning here!)*
-
----
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/vivek-tiwari-vt" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div align="center">
+  <a href="https://github.com/vivek-tiwari-vt/agmem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek-tiwari-vt&repo=agmem&theme=transparent&title_color=8B5CF6&icon_color=06B6D4&text_color=e6edf3&border_color=8B5CF6&bg_color=0d1117" alt="agmem" />
   </a>
-  <a href="[your-medium-link](https://medium.com/@vivek_tiwari_vt)" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  <a href="https://github.com/vivek-tiwari-vt/attention-atlas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek-tiwari-vt&repo=attention-atlas&theme=transparent&title_color=8B5CF6&icon_color=06B6D4&text_color=e6edf3&border_color=8B5CF6&bg_color=0d1117" alt="attention-atlas" />
   </a>
-  </p>
+</div>
+<div align="center">
+  <a href="https://github.com/vivek-tiwari-vt/Hypercomplex-Vision-Transformer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek-tiwari-vt&repo=Hypercomplex-Vision-Transformer&theme=transparent&title_color=8B5CF6&icon_color=06B6D4&text_color=e6edf3&border_color=8B5CF6&bg_color=0d1117" alt="Hypercomplex-Vision-Transformer" />
+  </a>
+  <a href="https://github.com/vivek-tiwari-vt/DOCAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek-tiwari-vt&repo=DOCAI&theme=transparent&title_color=8B5CF6&icon_color=06B6D4&text_color=e6edf3&border_color=8B5CF6&bg_color=0d1117" alt="DOCAI" />
+  </a>
+</div>
 
----
+<div align="center">
+  <a href="https://github.com/vivek-tiwari-vt?tab=repositories">🔍 View all repositories →</a>
+</div>
+
+<br/><br/>
+
+## 🧰 Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=06B6D4)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=8B5CF6)
+![R](https://img.shields.io/badge/R-0d1117?style=flat-square&logo=r&logoColor=06B6D4)
+![Julia](https://img.shields.io/badge/Julia-0d1117?style=flat-square&logo=julia&logoColor=EC4899)
+
+**ML & AI**  
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EC4899)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=06B6D4)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=8B5CF6)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=06B6D4)
+![Transformers](https://img.shields.io/badge/Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=EC4899)
+
+**Data Engineering**  
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-0d1117?style=flat-square&logo=apache-spark&logoColor=EC4899)
+![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apache-kafka&logoColor=8B5CF6)
+![Airflow](https://img.shields.io/badge/Airflow-0d1117?style=flat-square&logo=apache-airflow&logoColor=06B6D4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=8B5CF6)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=06B6D4)
+![Snowflake](https://img.shields.io/badge/Snowflake-0d1117?style=flat-square&logo=snowflake&logoColor=8B5CF6)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazon-aws&logoColor=EC4899)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=google-cloud&logoColor=06B6D4)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=8B5CF6)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=06B6D4)
+
+**Visualization**  
+![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=flat-square&logo=tableau&logoColor=EC4899)
+![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=powerbi&logoColor=8B5CF6)
+
+<br/><br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vivek-tiwari-vt&show_icons=true&bg_color=0d1117&title_color=8B5CF6&text_color=e6edf3&icon_color=06B6D4&border_color=8B5CF6&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-tiwari-vt&theme=transparent&background=0d1117&ring=8B5CF6&fire=EC4899&currStreakLabel=06B6D4&sideLabels=e6edf3&dates=8b949e&border=8B5CF6" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-tiwari-vt&layout=compact&bg_color=0d1117&title_color=8B5CF6&text_color=e6edf3&icon_color=06B6D4&border_color=8B5CF6&langs_count=6&hide=jupyter%20notebook" alt="Top Languages" />
+</div>
+
+<br/><br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vivek-tiwari-vt&theme=onestar&no-bg=true&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+</div>
+
+<br/><br/>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek-tiwari-vt&bg_color=0d1117&color=8B5CF6&line=06B6D4&point=EC4899&area=true&area_color=8B5CF6&hide_border=false&border_color=8B5CF6" alt="Activity Graph" />
+</div>
+
+<br/><br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivek-tiwari-vt/vivek-tiwari-vt/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivek-tiwari-vt/vivek-tiwari-vt/output/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/vivek-tiwari-vt/vivek-tiwari-vt/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/><br/>
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=06B6D4)](https://linkedin.com/in/vivek-tiwari-vt)
+[![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=8B5CF6)](https://medium.com/@your-medium-username)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/vivek-tiwari-vt)
+[![Email](https://img.shields.io/badge/Email_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EC4899)](mailto:your-email@domain.com)
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <sub>⚡ Crafted with precision · Powered by curiosity · Always iterating</sub>
+</div>
