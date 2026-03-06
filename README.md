@@ -54,18 +54,18 @@
 
 <div align="center">
   <a href="https://github.com/vivek-tiwari-vt/agmem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek-tiwari-vt&repo=agmem&theme=transparent&title_color=8B5CF6&icon_color=06B6D4&text_color=e6edf3&border_color=8B5CF6&bg_color=0d1117" alt="agmem" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vivek-tiwari-vt&repo=agmem&theme=transparent&title_color=8B5CF6&icon_color=06B6D4&text_color=e6edf3&border_color=8B5CF6&bg_color=0d1117" alt="agmem" />
   </a>
   <a href="https://github.com/vivek-tiwari-vt/attention-atlas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek-tiwari-vt&repo=attention-atlas&theme=transparent&title_color=8B5CF6&icon_color=06B6D4&text_color=e6edf3&border_color=8B5CF6&bg_color=0d1117" alt="attention-atlas" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vivek-tiwari-vt&repo=attention-atlas&theme=transparent&title_color=8B5CF6&icon_color=06B6D4&text_color=e6edf3&border_color=8B5CF6&bg_color=0d1117" alt="attention-atlas" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/vivek-tiwari-vt/Hypercomplex-Vision-Transformer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek-tiwari-vt&repo=Hypercomplex-Vision-Transformer&theme=transparent&title_color=8B5CF6&icon_color=06B6D4&text_color=e6edf3&border_color=8B5CF6&bg_color=0d1117" alt="Hypercomplex-Vision-Transformer" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vivek-tiwari-vt&repo=Hypercomplex-Vision-Transformer&theme=transparent&title_color=8B5CF6&icon_color=06B6D4&text_color=e6edf3&border_color=8B5CF6&bg_color=0d1117" alt="Hypercomplex-Vision-Transformer" />
   </a>
   <a href="https://github.com/vivek-tiwari-vt/DOCAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek-tiwari-vt&repo=DOCAI&theme=transparent&title_color=8B5CF6&icon_color=06B6D4&text_color=e6edf3&border_color=8B5CF6&bg_color=0d1117" alt="DOCAI" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vivek-tiwari-vt&repo=DOCAI&theme=transparent&title_color=8B5CF6&icon_color=06B6D4&text_color=e6edf3&border_color=8B5CF6&bg_color=0d1117" alt="DOCAI" />
   </a>
 </div>
 
@@ -113,9 +113,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vivek-tiwari-vt&show_icons=true&bg_color=0d1117&title_color=8B5CF6&text_color=e6edf3&icon_color=06B6D4&border_color=8B5CF6&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vivek-tiwari-vt&show_icons=true&bg_color=0d1117&title_color=8B5CF6&text_color=e6edf3&icon_color=06B6D4&border_color=8B5CF6&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-tiwari-vt&theme=transparent&background=0d1117&ring=8B5CF6&fire=EC4899&currStreakLabel=06B6D4&sideLabels=e6edf3&dates=8b949e&border=8B5CF6" alt="GitHub Streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-tiwari-vt&layout=compact&bg_color=0d1117&title_color=8B5CF6&text_color=e6edf3&icon_color=06B6D4&border_color=8B5CF6&langs_count=6&hide=jupyter%20notebook" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vivek-tiwari-vt&layout=compact&bg_color=0d1117&title_color=8B5CF6&text_color=e6edf3&icon_color=06B6D4&border_color=8B5CF6&langs_count=6&hide=jupyter%20notebook" alt="Top Languages" />
 </div>
 
 <br/><br/>
@@ -123,7 +123,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivek-tiwari-vt&theme=onestar&no-bg=true&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=vivek-tiwari-vt&theme=onestar&no-bg=true&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
 </div>
 
 <br/><br/>
