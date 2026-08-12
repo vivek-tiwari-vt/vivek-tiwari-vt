@@ -40,11 +40,6 @@ button {
 
 button:hover, button:focus-visible, a:hover, a:focus-visible { color: var(--purple); }
 
-button:focus-visible, a:focus-visible, input:focus-visible {
-  outline: 1px solid var(--cyan);
-  outline-offset: 4px;
-}
-
 a { color: var(--purple); text-decoration: underline; text-underline-offset: 3px; }
 
 .terminal-shell {
@@ -83,7 +78,6 @@ h1 span { color: var(--muted); font-size: 14px; font-weight: 400; }
 .muted { color: var(--muted); }
 
 .terminal-output { padding: 16px 0 10px; }
-.terminal-output:focus { outline: 0; }
 .legend { margin: 0 0 26px; color: var(--muted); }
 .legend strong { color: var(--text); }
 .legend span, .legend i { margin-left: 12px; }
@@ -94,14 +88,10 @@ i { color: var(--muted); font-style: normal; }
 time { color: var(--muted); }
 .prompt { color: var(--cyan); }
 .command-line button { justify-self: start; color: var(--cyan); text-align: left; }
-.typed-command { color: var(--cyan); }
 .command-result { margin-left: 182px; color: var(--text); }
 .project-result a { display: inline-block; min-width: 190px; }
 .project-result span { color: var(--text); }
 .command-links { display: flex; flex-wrap: wrap; gap: 10px 24px; }
-.help-gap { white-space: pre; }
-.history-number { display: inline-block; width: 28px; color: var(--muted); }
-.command-block-new { padding-top: 14px; border-top: 1px dashed rgba(105, 115, 124, .55); }
 
 .interactive-session { margin: 22px 0 4px; padding-top: 14px; border-top: 1px dashed var(--line); }
 .interactive-session .command-line { grid-template-columns: 170px auto 1fr; }
@@ -133,23 +123,6 @@ time { color: var(--muted); }
   caret-color: var(--text);
 }
 .shell-help { margin: 10px 0 0; color: var(--muted); font-size: 13px; }
-.noscript-note { color: var(--muted); }
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border: 0;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  html { scroll-behavior: auto; }
-  .command-block-new { animation: none; }
-}
 
 @media (max-width: 760px) {
   body { font-size: 13px; }
@@ -160,6 +133,4 @@ time { color: var(--muted); }
   .project-result span { display: inline; }
   .status-bar { gap: 8px 12px; }
   .status-bar i { display: none; }
-  .shell-form { align-items: flex-start; flex-direction: column; gap: 4px; }
-  .shell-form input { width: 100%; min-height: 36px; }
 }
