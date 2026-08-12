@@ -2,11 +2,107 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="refresh" content="0; url=terminal.html">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Interactive terminal profile for Vivek Tiwari, AI Engineer at Nexus3.">
     <title>Vivek AI Profile</title>
+    <link rel="stylesheet" href="terminal.css">
   </head>
   <body>
-    <p><a href="terminal.html">Open Vivek's interactive terminal</a></p>
+    <main class="terminal-shell" aria-label="Vivek AI Profile interactive terminal">
+      <header class="terminal-header">
+        <div class="terminal-mark" aria-hidden="true">&gt;_</div>
+        <div>
+          <h1>Vivek AI Profile <span>v1.0.0</span></h1>
+          <p>Interactive profile session · GitHub terminal</p>
+        </div>
+      </header>
+
+      <div class="session-line">
+        <span class="status-dot" aria-hidden="true"></span>
+        <strong>SessionStart:</strong> profile loaded
+        <span class="muted">|</span>
+        <time class="muted" id="session-time">live session</time>
+      </div>
+
+      <section class="terminal-output" id="output" role="log" aria-label="Terminal output" aria-live="off">
+        <p class="legend"><strong>Legend:</strong> <span>cmd</span> <i>|</i> <span>output</span> <i>|</i> <span>link</span></p>
+
+        <div id="scrollback">
+          <div class="command-block">
+            <div class="command-line"><time>10:30:00 AM</time><span class="prompt">$</span><button data-command="whoami">whoami</button></div>
+            <div class="command-result">Vivek Tiwari</div>
+          </div>
+
+          <div class="command-block">
+            <div class="command-line"><time>10:30:02 AM</time><span class="prompt">$</span><button data-command="role">role</button></div>
+            <div class="command-result">AI Engineer @ Nexus3</div>
+          </div>
+
+          <div class="command-block">
+            <div class="command-line"><time>10:30:04 AM</time><span class="prompt">$</span><button data-command="focus">focus</button></div>
+            <div class="command-result">Production AI systems | LLM architectures | Applied AI research | Multi-agent systems</div>
+          </div>
+
+          <div class="command-block">
+            <div class="command-line"><time>10:30:07 AM</time><span class="prompt">$</span><button data-command="stack --short">stack --short</button></div>
+            <div class="command-result">Python | PyTorch | Transformers | CrewAI | LLMOps | FastAPI | Airflow | Docker | AWS</div>
+          </div>
+
+          <div class="command-block">
+            <div class="command-line"><time>10:30:09 AM</time><span class="prompt">$</span><button data-command="interests">interests</button></div>
+            <div class="command-result">AI agents | RAG | knowledge representation | efficient inference | transformer architectures</div>
+          </div>
+
+          <div class="command-block">
+            <div class="command-line"><time>10:30:11 AM</time><span class="prompt">$</span><button data-command="projects --featured">projects --featured</button></div>
+            <div class="command-result project-result">
+              <a href="https://github.com/vivek-tiwari-vt/agmem" target="_blank" rel="noreferrer">agmem</a><span> - version control for AI agent memories</span><br>
+              <a href="https://github.com/vivek-tiwari-vt/attention-atlas" target="_blank" rel="noreferrer">attention-atlas</a><span> - transformer interpretability</span><br>
+              <a href="https://github.com/vivek-tiwari-vt/DOCAI" target="_blank" rel="noreferrer">DOCAI</a><span> - document intelligence systems</span>
+            </div>
+          </div>
+
+          <div class="command-block">
+            <div class="command-line"><time>10:30:13 AM</time><span class="prompt">$</span><button data-command="contact">contact</button></div>
+            <div class="command-result"><a href="https://www.linkedin.com/in/vivek-tiwari-vt/" target="_blank" rel="noreferrer">linkedin.com/in/vivek-tiwari-vt</a><span> | </span><a href="https://secretive-hemisphere-799.notion.site/PORTFOLIO-1d146a2a24148073bad5e159fe3a9106" target="_blank" rel="noreferrer">portfolio</a></div>
+          </div>
+
+          <div class="command-block">
+            <div class="command-line"><time>10:30:15 AM</time><span class="prompt">$</span><button data-command="help">help</button></div>
+            <div class="command-result command-links">
+              <button data-command="about">about</button>
+              <button data-command="work">work</button>
+              <button data-command="stack">stack</button>
+              <button data-command="interests">interests</button>
+              <button data-command="projects">projects</button>
+              <button data-command="writing">writing</button>
+              <button data-command="contact">contact</button>
+              <button data-command="history">history</button>
+              <button data-command="clear">clear</button>
+            </div>
+          </div>
+        </div>
+
+        <p class="sr-only" id="announcement" aria-live="polite"></p>
+      </section>
+
+      <footer class="status-bar" aria-label="Terminal status">
+        <span class="cyan">profile-session</span><i>|</i>
+        <span class="green">mode: interactive</span><i>|</i>
+        <span class="muted">cwd: </span><span class="purple">~/profile</span><i>|</i>
+        <span class="amber">commands: <span id="command-count">0</span></span><i>|</i>
+        <span class="green">session: active</span>
+      </footer>
+
+      <form class="shell-form" id="shell-form">
+        <label for="shell-input"><span class="green">vivek</span>@profile:<span class="purple">~/profile</span>$</label>
+        <input id="shell-input" name="command" autocomplete="off" spellcheck="false" aria-label="Enter a profile command" aria-describedby="shell-help">
+      </form>
+      <p class="shell-help" id="shell-help">Try <button type="button" data-command="help">help</button> · ↑/↓ history · Tab complete · Ctrl+L clear</p>
+      <noscript>
+        <p class="noscript-note">JavaScript is disabled. Visit <a href="https://www.linkedin.com/in/vivek-tiwari-vt/">LinkedIn</a> or the <a href="https://secretive-hemisphere-799.notion.site/PORTFOLIO-1d146a2a24148073bad5e159fe3a9106">portfolio</a>.</p>
+      </noscript>
+    </main>
+    <script src="terminal.js"></script>
   </body>
 </html>
